@@ -2,7 +2,7 @@
 @font-face { font-family: Panton; font-weight: bold; src: url('Panton-Bold.ttf');}
 
 :root {
-  --main-color: #fdbe4d;
+  --main-color: #4CAF76;
   --background-color: linear-gradient(56deg, rgba(10,10,10,1) 0%, rgba(27,28,48,1) 100%);
 }
 
