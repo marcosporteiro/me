@@ -3,7 +3,7 @@
 
 :root {
   --main-color: #4CAF76;
-  --background-color: linear-gradient(56deg, rgba(10,10,10,1) 0%, rgba(30, 45, 35, 1) 100%);
+  --background-color: linear-gradient(56deg, rgba(10, 10, 10, 1) 0%, rgba(8, 18, 17, 1) 100%);
 }
 
 html,
@@ -143,4 +143,5 @@ a:hover {
     justify-content: space-between;
   }
 }
+
 
